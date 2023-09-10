@@ -1,0 +1,9 @@
+.day-of-the-week {
+  background-color: orange;
+  color: aliceblue;
+}
+tr,
+td {
+  border: 2px groove;
+  
+}
